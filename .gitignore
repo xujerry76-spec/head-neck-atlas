@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.research/
+tools/
+build/
+.superpowers/
+research-cases/
+test-results/
